@@ -1,0 +1,7 @@
+Type: docs
+
+Adding and modifying commit
+I make a new commit to insert a comment, for this repository.
+
+
+By: Mohammed Zaiyd
